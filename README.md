@@ -4,6 +4,13 @@
 
 ### Tecnologías:
 
+![https://github.com/GonzaloGarcia21](https://github.com/GonzaloGarcia21/GonzaloGarcia21/blob/main/logo_unreal.png)
+
+![https://github.com/GonzaloGarcia21](https://github.com/GonzaloGarcia21/GonzaloGarcia21/blob/main/logpython.png)
+
+![https://github.com/GonzaloGarcia21](https://github.com/GonzaloGarcia21/GonzaloGarcia21/blob/main/logocsharp.png)
+
+
 ### Canal de youtube:
 <!--
 **GonzaloGarcia21/GonzaloGarcia21** is a ✨ _special_ ✨ repository because it `README.md` (this file) appears on your GitHub profile.

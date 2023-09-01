@@ -1,5 +1,10 @@
 ### Hi there 👋
 ![https://github.com/GonzaloGarcia21](https://github.com/GonzaloGarcia21/GonzaloGarcia21/blob/main/bannergit.jpeg)
+### Sobre Mi:
+
+### Tecnologías:
+
+### Canal de youtube:
 <!--
 **GonzaloGarcia21/GonzaloGarcia21** is a ✨ _special_ ✨ repository because it `README.md` (this file) appears on your GitHub profile.
 

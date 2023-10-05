@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![https://github.com/GonzaloGarcia21](https://github.com/GonzaloGarcia21/GonzaloGarcia21/blob/main/bannergit.jpeg)
 ### Sobre Mi:
+🔭 I’m currently working on ...Unreal Engine and Python 
+🌱 I’m currently learning ... Marketing for Video Game and Python + Reflex
 
 ### Tecnologías:
 

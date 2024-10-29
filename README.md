@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning ... Marketing for Video Game 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luis_García-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-garc%C3%ADa-vidal-09346015b/)]([https://www.linkedin.com/in/haany-ali](https://www.linkedin.com/in/luis-garc%C3%ADa-vidal-09346015b/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-Luis_García-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-garc%C3%ADa-vidal-09346015b/)](https://www.linkedin.com/in/luis-garc%C3%ADa-vidal-09346015b/)
 
 
 ### Tecnologías:
